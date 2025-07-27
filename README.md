@@ -90,8 +90,8 @@ No additional package installations are needed beyond `requests` if not present.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/btc-checker.git
-   cd btc-checker
+   git clone https://github.com/DigiMancer3D/BHB_CHKR.git
+   cd BHB_CHKR
    ```
 2. Install dependencies (if needed):
    ```bash
